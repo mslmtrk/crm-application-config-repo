@@ -1,1 +1,1 @@
-Spring Cloud Config Server repo for crm-application. 
+Spring Cloud Config Server repo for crm-application.
